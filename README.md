@@ -9,11 +9,11 @@ Please reach out if you are up for a discussion on that or looking for guidance!
 
 Next to my development efforts on Axon Framework, I:
 - plan, discuss, and implement features and enhancements for Axon Framework with team members and contributors.
-- coordinate (most) activity on the open-source repositories of Axon Framework (https://github.com/AxonFramework/).
-- provide online and offline training in anything Axon-related (see https://academy.axoniq.io/ for some example training material I have made)
-- consult people on using Axon Framework on our forum (https://discuss.axoniq.io/), StackOverflow, and GitHub.
+- coordinate (most) activity on the open-source repositories of [Axon Framework](https://github.com/AxonFramework/).
+- provide online and offline training in anything Axon-related (see [AxonIQ Academy](https://academy.axoniq.io/) for some training material I have made)
+- consult people on using Axon Framework on our [forum](https://discuss.axoniq.io/), StackOverflow, and GitHub.
 - go on stage to talk about all this when I get requested/selected for a conference/meet-up.
-- work on AxonIQ Console (https://console.axoniq.io/) as it further helps Axon users.
+- work on [AxonIQ Console](https://console.axoniq.io/) as it further helps Axon users.
 
 I graduated from the [Vrije Universiteit of Amsterdam](https://vu.nl/nl), where I achieved my Master's Degree in Computer Science.
 My specialization was "High-Performance Distributed Computing," within which I focused on [Hadoop](https://hadoop.apache.org/) and [Hama](https://hama.apache.org/) during my thesis.
